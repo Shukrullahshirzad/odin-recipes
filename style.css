@@ -1,0 +1,23 @@
+:root{
+
+}
+body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+header{
+  height: 100vh;
+  width: auto;
+  background-image: url(./hero.jpg);
+  background-size: contain;
+  background-position: center;
+  text-align: center;
+  display: grid;
+  place-items: center;
+
+}
+h1{
+  font-size: 60px;
+  color: wheat;
+}
